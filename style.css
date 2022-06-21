@@ -4,6 +4,7 @@ html, body {
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
     background-image: url("paris.jpg");
+    background-repeat: no-repeat;
   
 }
 
